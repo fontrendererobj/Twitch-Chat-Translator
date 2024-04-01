@@ -1,7 +1,10 @@
 
 # Twitch Chat Translator
 
-Translate Twitch Chat Messages into the selected language
+Translate Twitch Chat Messages into the selected language.
+
+Im open for Pull Requests.
+
 ## Features
 
 - Text To Speech support
