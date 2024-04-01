@@ -1,0 +1,14 @@
+server: "irc.chat.twitch.tv"
+port: 6667
+
+nickname: 'TWITCH NAME'
+oauthtoken: 'TWITCH OAUTH TOKEN'
+channels: ["CHANNELS TO LISTEN"]
+
+# This uses ISO Codes
+language: 'de'
+tts: True
+
+# Only TTS Messages that are not from a Bot.
+bot_check: True
+bot_users: ['wizebot', 'nightbot']

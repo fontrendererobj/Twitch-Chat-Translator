@@ -1,0 +1,4 @@
+colorama==0.4.6
+easygoogletranslate==0.0.4
+pyttsx3==2.90
+PyYAML==6.0.1
